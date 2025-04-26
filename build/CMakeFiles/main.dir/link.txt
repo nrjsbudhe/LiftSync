@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/src/Elevator.cpp.o CMakeFiles/main.dir/src/ElevatorSystem.cpp.o CMakeFiles/main.dir/src/RequestHandler.cpp.o  -o main  -lpthread 
